@@ -1,4 +1,4 @@
-﻿Meadow|草地
+Meadow|草地
 Dirt (Meadow)|土（草地）
 Road (Meadow)|道（草地）
 Cobblestones A|石畳A

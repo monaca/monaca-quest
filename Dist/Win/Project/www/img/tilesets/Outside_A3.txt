@@ -1,4 +1,4 @@
-﻿Roof A (Red Tile)|屋根A（赤瓦）
+Roof A (Red Tile)|屋根A（赤瓦）
 Roof B (Orange Tile)|屋根B（橙瓦）
 Roof C (Indigo Tile)|屋根C（藍瓦）
 Roof D (Green Tile)|屋根D（緑瓦）

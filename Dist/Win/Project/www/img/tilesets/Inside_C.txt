@@ -1,4 +1,4 @@
-﻿Cup & Teapot A (Bottom)|カップとポットA（下）
+Cup & Teapot A (Bottom)|カップとポットA（下）
 Cup & Teapot B (Top)|カップとポットB（上）
 Cup & Teapot C (Left)|カップとポットC（左）
 Cup & Teapot D (Right)|カップとポットD（右）

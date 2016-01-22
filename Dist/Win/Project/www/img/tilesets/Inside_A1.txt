@@ -1,4 +1,4 @@
-﻿Canal A|水路A
+Canal A|水路A
 Deep Canal|深い水路
 Lotus Pads (Flowers)|蓮の葉（花）
 Junk|ゴミ

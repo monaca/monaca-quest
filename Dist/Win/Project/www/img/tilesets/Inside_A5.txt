@@ -1,4 +1,4 @@
-﻿Darkness|暗闇
+Darkness|暗闇
 Wire Mesh|金網
 Stone Bridge (V, Left)|石の橋（縦・左）
 Stone Bridge (V Center)|石の橋（縦・中央）

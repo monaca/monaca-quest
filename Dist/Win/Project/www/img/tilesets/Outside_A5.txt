@@ -1,4 +1,4 @@
-﻿Darkness|暗闇
+Darkness|暗闇
 Wire Mesh|金網
 Large Bridge (V, Left)|大きな橋（縦・左）
 Large Bridge (V, Center)|大きな橋（縦・中央）

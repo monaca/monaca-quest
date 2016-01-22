@@ -1,4 +1,4 @@
-﻿Wood Floor A|木の床A
+Wood Floor A|木の床A
 Cobblestones A|石畳A
 Rug A|じゅうたんA
 Straw Mat|ござ

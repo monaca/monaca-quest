@@ -1,4 +1,4 @@
-﻿Wall A (Stone)|壁A（石）
+Wall A (Stone)|壁A（石）
 Wall B (Brick)|壁B（レンガ）
 Wall C (Stone)|壁C（石）
 Wall D (Stone)|壁D（石）

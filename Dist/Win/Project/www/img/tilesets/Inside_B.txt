@@ -1,4 +1,4 @@
-﻿Transparent|透明
+Transparent|透明
 Stairs A (Up)|階段A（上り）
 Stairs B (Up)|階段B（上り）
 Stairs C (Up)|階段C（上り）

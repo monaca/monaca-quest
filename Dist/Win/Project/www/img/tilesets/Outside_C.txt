@@ -1,4 +1,4 @@
-﻿Stone Pillar A|石の柱A
+Stone Pillar A|石の柱A
 Stone Pillar B|石の柱B
 Stone Pillar C|石の柱C
 Stone Pillar C (Moss)|石の柱C（苔）

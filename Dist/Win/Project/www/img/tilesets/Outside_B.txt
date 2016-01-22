@@ -1,4 +1,4 @@
-﻿Transparent|透明
+Transparent|透明
 Shop Sign (Sword)|看板（剣）
 Shop Sign (Sword & Shield)|看板（剣と盾）
 Shop Sign (Armor)|看板（鎧）

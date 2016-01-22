@@ -1,4 +1,4 @@
-﻿Water A (Meadow)|水場A（草地）
+Water A (Meadow)|水場A（草地）
 Deep Water|深い水場
 Lotus Pads|蓮の葉
 Swamp Grass|水草
