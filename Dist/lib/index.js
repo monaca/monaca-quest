@@ -14493,7 +14493,10 @@ readBgs = function(json) {
 readSe = function(json) {
   var commandSe;
   commandSe = searchCommand(json, 250, 0);
-  return commandSe.concat(json.System.sounds);
+  
+  var retval = commandSe.concat(json.System.sounds);
+  // console.log( retval );
+  return retval;
 };
 
 readMe = function(json) {
@@ -14641,7 +14644,7 @@ enumFilesRecur = function(dir) {
 
 enumIncludeFiles = function(home) {
   var dir, files, includes;
-  includes = ['data', 'fonts', 'icon', 'js', path.join('img', 'system')];
+  includes = [path.join('audio','se'), 'data', 'fonts', 'icon', 'js', path.join('img', 'system')];
   files = (function() {
     var i, len, results;
     results = [];

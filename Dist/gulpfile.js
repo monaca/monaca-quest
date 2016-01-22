@@ -29,11 +29,11 @@ gulp.task ('resource' , function() {
     del.sync( [  'Resource/**' , '!Resource' ] );
     var result = index.read("../Project");
     var includeFiles = result[0];
-    gulp.src( includeFiles , { base: '../Project' } ).pipe( gulp.dest( 'Resource' ) );
+    return gulp.src( includeFiles , { base: '../Project' } ).pipe( gulp.dest( 'Resource' ) );
  } );
 
 
-gulp.task( 'mac' , ['resource'] ,  function() {
+gulp.task( 'mac' , ['resource'],  function() {
   del.sync( [      'Mac/Project/Game.app/Contents/Resources/app.nw/**' ,
               '!Mac/Project/Game.app/Contents/Resources/app.nw' ,
               '!Mac/Project/Game.app/Contents/Resources/app.nw/**.json'  ] );
