@@ -85,7 +85,7 @@ http://liply.net/2015/11/08/packager/
 
 JavaScriptで、18番目のフラグをonにします。すなわち、以下を実行してください。
 
-    $gameSwitches( 18 , true );
+    $gameSwitches.setValue( 18 , true );
 
 
 
