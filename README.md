@@ -88,7 +88,28 @@ JavaScriptで、18番目のフラグをonにします。すなわち、以下を
     $gameSwitches.setValue( 18 , true );
 
 
+# Monaca-Quest専用の不要削除機能
 
+    Diet/file_list.txt
 
+に必要なリソースファイルを記述すれば、
 
+    $ gulp diet
+
+で、それ以外の不要なファイルを削除します。削除されるのは、Mobileだけです。
+なので、Mobileについて
+
+    $ gulp mobile
+    $ gulp diet
+
+でデプロイしてください。
+
+なお、ダイエットの対象となっているのは、
+
+      var targetDirs = [ 'audio/bgm' , 'audio/me' , 'audio/se' ,
+//                     'data',
+                     'img/animations' , 'img/characters' , 'img/enemies', 'img/faces' ,
+                     'img/pictures' , 'img/tilesets' , 'img/titles1' , 'img/titles2' ];
+
+だけです。これ以外のディレクトリについては、ダイエットの対象となりません。
 
