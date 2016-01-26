@@ -58,7 +58,7 @@ gulp.task( 'mobile' , ['resource'] , function() {
 gulp.task( 'diet' , function() {
   console.log( "Diet Dist/Mobile/Project/www" );
 
-  var buf = fs.readFileSync('Dist/file_list.txt');
+  var buf = fs.readFileSync('src/file_list.txt');
   var lines = buf.toString().split(/\r\n|\r|\n/);
 
 
@@ -88,4 +88,6 @@ gulp.task( 'diet' , function() {
   del.sync( list );
 } );
 
-
+gulp.task( 'game' , function() {
+  return gulp.src( [ 'src/Mobile/**' ] , { base: 'src/Mobile' } ).pipe( gulp.dest( 'Dist/Mobile/Project/www' ) );
+} );

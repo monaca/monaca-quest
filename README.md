@@ -113,3 +113,14 @@ JavaScriptで、18番目のフラグをonにします。すなわち、以下を
 
 だけです。これ以外のディレクトリについては、ダイエットの対象となりません。
 
+# Cordova Projectの作成
+
+    Dist以下には、Cordova用のファイルがすでに置いてあるので、それは消さないでください。
+
+    $ gulp game
+
+で、index.htmlをCordova用に変更し、components以下やloader.jsなどを取り込みます。
+
+=> ですが、現状ではなぜかDeviceReadyが発火しません。
+
+
