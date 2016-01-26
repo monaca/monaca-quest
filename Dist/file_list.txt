@@ -12,7 +12,7 @@ www/img/tilesets/Inside_A5.png
 www/img/tilesets/Inside_B.png
 www/img/tilesets/Inside_C.png
 www/img/enemies/Irongiant.png
-www/img/titles1/WorldMap.png
+www/img/titles1/WorldMap_2.png
 www/img/titles2/Medieval.png
 www/img/pictures/Monaca.png
 www/img/pictures/Onsen_UI.png
