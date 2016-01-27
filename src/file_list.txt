@@ -79,4 +79,6 @@ www/audio/bgm/Dungeon1.ogg
 www/audio/bgm/Dungeon1.m4a
 www/audio/se/Heal3.ogg
 www/audio/se/Heal3.m4a
+www/audio/se/Damage4.ogg
+www/audio/se/Damage4.m4a
 
